@@ -1,1 +1,574 @@
-{"briefs":[{"badge":"REPORTED","city":"TOKYO","field":"Markets","n":14,"region":"East Asia","text":"Nikkei slips 0.04% to 57,474 after opening higher"},{"badge":"REPORTED","city":"WELLINGTON","field":"Politics","n":15,"region":"Oceania","text":"Final count due; 400,000 special votes decide parliament"},{"badge":"OFFICIAL","city":"LONDON","field":"Markets","n":16,"region":"Europe","text":"UK car output +4.8% in October to 64,141"},{"badge":"OFFICIAL","city":"BERLIN","field":"Markets","n":17,"region":"Europe","text":"German GfK confidence -30.2 for December"},{"badge":"REPORTED","city":"PARIS","field":"Markets","n":18,"region":"Europe","text":"France reports GDP, CPI and spending today"},{"badge":"REPORTED","city":"MADRID","field":"Markets","n":19,"region":"Europe","text":"Spain's November CPI due today"},{"badge":"REPORTED","city":"FRANKFURT","field":"Rates","n":20,"region":"Europe","text":"ECB inflation expectations due today"},{"badge":"REPORTED","city":"NOTTINGHAM","field":"Sport","n":21,"region":"Europe","text":"Forest host Chelsea, 20:00 GMT"},{"badge":"REPORTED","city":"BREMEN","field":"Sport","n":22,"region":"Europe","text":"Werder v Gladbach open the weekend"},{"badge":"REPORTED","city":"VENICE","field":"Sport","n":23,"region":"Europe","text":"Venezia host Bologna in Serie A"},{"badge":"REPORTED","city":"VALENCIA","field":"Sport","n":24,"region":"Europe","text":"Levante face Racing Santander in La Liga"},{"badge":"REPORTED","city":"BREST","field":"Sport","n":25,"region":"Europe","text":"Brest host Paris FC in Ligue 1"},{"badge":"REPORTED","city":"SOUTHAMPTON","field":"Sport","n":26,"region":"Europe","text":"Saints host Middlesbrough"},{"badge":"REPORTED","city":"GRONINGEN","field":"Sport","n":27,"region":"Europe","text":"Groningen host Willem II in Eredivisie"},{"badge":"REPORTED","city":"WARSAW","field":"Politics","n":28,"region":"Europe","text":"Poland to enforce east flight ban by Jan"},{"badge":"REPORTED","city":"HELSINKI","field":"Politics","n":29,"region":"Europe","text":"Russia's neighbours quit the landmine ban"},{"badge":"REPORTED","city":"KYIV","field":"Politics","n":30,"region":"Europe","text":"Zelenskyy: no deal without security guarantees"},{"badge":"REPORTED","city":"MOSCOW","field":"Conflict","n":31,"region":"Europe","text":"300+ Russians killed backing Mali's junta"},{"badge":"REPORTED","city":"TEHRAN","field":"Energy","n":32,"region":"Middle East","text":"Iran's energy crisis deepens in war deadlock"},{"badge":"REPORTED","city":"RIYADH","field":"Energy","n":33,"region":"Middle East","text":"Houthi rocket hits Saudi refinery; 1 killed"},{"badge":"REPORTED","city":"DUBAI","field":"Energy","n":34,"region":"Middle East","text":"Oil steady as Gulf counts the cost of war"},{"badge":"REPORTED","city":"NAIROBI","field":"Politics","n":35,"region":"Africa","text":"Court halts US-backed Ebola facility"},{"badge":"REPORTED","city":"CAIRO","field":"Trade","n":36,"region":"Africa","text":"Egypt eyes 100 Korean FA-50 jets"},{"badge":"REPORTED","city":"WASHINGTON","field":"Trade","n":37,"region":"Americas","text":"October trade gap lands at 13:30 UTC"},{"badge":"REPORTED","city":"NEW YORK","field":"Markets","n":38,"region":"Americas","text":"Markets shut early; S&P futures +0.3%"},{"badge":"REPORTED","city":"BOSTON","field":"Weather","n":39,"region":"Americas","text":"Nor'easter lashes East Coast"},{"badge":"REPORTED","city":"OTTAWA","field":"Politics","n":40,"region":"Americas","text":"Canada current account, budget due"},{"badge":"REPORTED","city":"RIO","field":"Sport","n":41,"region":"Americas","text":"Fluminense host Cruzeiro in Brasileirao"},{"badge":"REPORTED","city":"SINGAPORE","field":"Markets","n":42,"region":"SE Asia","text":"Bank lending data due today"},{"badge":"REPORTED","city":"NAGOYA","field":"Markets","n":43,"region":"East Asia","text":"Mitsui to open 10,000-seat arena in 2028"},{"badge":"REPORTED","city":"TOKYO","field":"Markets","n":44,"region":"East Asia","text":"Large retailers' sales due tonight"},{"badge":"REPORTED","city":"BRASÍLIA","field":"Politics","n":45,"region":"Americas","text":"Brazil weighs Milei snub for inauguration"}],"cards":[{"badge":"REPORTED","city":"LONDON","deck":"Britain gets Swiss-style consultative rights in new EU deals.","field":"Politics","headline":"UK wins 'Swiss-like' say in new EU deals","lat":51.51,"lon":-0.13,"n":4,"region":"Europe","scene":"flags","source":"Reuters"},{"badge":"REPORTED","city":"SEOUL","deck":"Kospi opened +0.37% at 4,728.80, then fell 0.34%.","field":"Markets","headline":"Kospi gives up its early rise as chip stocks split","lat":37.57,"lon":126.98,"n":5,"region":"East Asia","scene":"candles","source":"TradingView"},{"badge":"REPORTED","city":"GAZA","deck":"Seven also died, including a deputy minister; 16 children this month.","field":"Conflict","headline":"Israeli drone strike kills three in Gaza City","lat":31.5,"lon":34.47,"n":6,"region":"Middle East","scene":"burst","source":"Reuters"},{"badge":"REPORTED","city":"VILNIUS","deck":"Police detained five people suspected of working for VGTRK.","field":"Politics","headline":"Five held over links to Russian state TV","lat":54.69,"lon":25.28,"n":7,"region":"Europe","scene":"tv","source":"Reuters"},{"badge":"REPORTED","city":"KYIV","deck":"State Dept cleared the jet deal as drones hit a Russian power plant.","field":"Conflict","headline":"US approves $622m F-16 sale to Ukraine","lat":50.45,"lon":30.52,"n":8,"region":"Europe","scene":"jet","source":"US State Dept"},{"badge":"CLAIM","city":"PYONGYANG","deck":"Kim escalated the nuclear drive; Kyiv says he cut aid to Russia.","field":"Conflict","headline":"Kim vows uncontrollable nuclear arms","lat":39.02,"lon":125.75,"n":9,"region":"East Asia","scene":"rocket","source":"KCNA / Kyiv"},{"badge":"REPORTED","city":"HONG KONG","deck":"The city remembers the Wang Fuk Court blaze, a year on.","field":"Politics","headline":"Hong Kong marks one year since the tower fire","lat":22.32,"lon":114.17,"n":10,"region":"East Asia","scene":"skyline","source":"AP"},{"badge":"REPORTED","city":"DHAKA","deck":"Police broke up a protest over minimum pay amid tariff pain.","field":"Politics","headline":"Police fire tear gas at garment workers","lat":23.81,"lon":90.41,"n":11,"region":"South Asia","scene":"factory","source":"Reuters"},{"badge":"REPORTED","city":"BELGRADE","deck":"The date was called after students won the parliament vote.","field":"Politics","headline":"Serbia sets presidential vote for Dec 27","lat":44.79,"lon":20.45,"n":12,"region":"Europe","scene":"ballot","source":"Reuters"},{"badge":"REPORTED","city":"BRASÍLIA","deck":"Trabuco takes the finance job as Brazil hits back at US tariffs.","field":"Politics","headline":"Bradesco chief Trabuco to be finance minister","lat":-15.79,"lon":-47.88,"n":13,"region":"Americas","scene":"bank","source":"Reuters"}],"date_check":{"excluded":"Left out as earlier news: Seoul's rate hike to 3.25% (26 Nov); the Brussels EU summit split (26 Nov); the Nasdaq plunge (25 Nov); the Macy's parade (26 Nov); the Egypt tanker fire, 31 dead (26 Nov); the Gaza assassinations (26 Nov); the Ukraine grain-ship strikes (26 Nov); the Kushner interview (26 Nov).","included":"Every story here happened, was first reported, or is scheduled for Friday 27 November 2026.","not_yet":"Not yet happened at press time: F1 qualifying (Saturday); the Qatar race (Sunday); US markets reopen Monday."},"dateline":"FRIDAY, 27 NOVEMBER 2026","leads":[{"asset":"assets/media-generation-lead-tokyo-0-703c8920-e30e-4995-8279-cead42f5c544.png","badge":"OFFICIAL","city":"TOKYO","deck":"Core inflation ran at 2.9% in November, a third straight month above the Bank of Japan's 2% target, days after hawk Tamura hinted at a December rise from 1.25%.","field":"Rates","headline":"Tokyo prices rise 2.9%, hardening the case for a December hike","lat":35.68,"lon":139.69,"n":1,"region":"East Asia","source":"Statistics Bureau of Japan"},{"asset":"assets/media-generation-lead-f1-0-b72855d1-0d22-4832-abc9-60f3da84eaba.png","badge":"REPORTED","city":"DOHA","deck":"Practice starts at Lusail at 13:30 UTC for the penultimate round, with Houthi drones reaching Riyadh and Gulf airspace on edge.","field":"Sport","headline":"Formula 1 opens in Qatar as the war closes in","lat":25.29,"lon":51.53,"n":2,"region":"Middle East","source":"Formula 1"},{"asset":"assets/media-generation-lead-blackfriday-0-539662a3-d976-4dac-8f44-49a74cb98cb0.png","badge":"REPORTED","city":"NEW YORK","deck":"Stores open at 5am with Target giving away gift cards worth up to $1,000, while shoppers face higher prices and the October trade gap lands at 13:30 UTC.","field":"Markets","headline":"Black Friday opens as tariffs bite","lat":40.71,"lon":-74.01,"n":3,"region":"Americas","source":"NRF / Adobe"}],"legend":"Badges: OFFICIAL = confirmed by the source. REPORTED = carried by two or more wires. CLAIM = unverified claim. Scenes are drawn illustrations, not photographs.","masthead":"THE WORLD IN ONE DAY","sources":"Sources: Reuters - AP - Nikkei - SMMT - Statistics Bureau of Japan - ECB - INSEE - Destatis. All times UTC unless stated.","stats":[{"label":"Tokyo core CPI, Nov","value":"2.9%"},{"label":"Nikkei at open","value":"57,670"},{"label":"yen per dollar","value":"159.20"},{"label":"F-16 sale to Kyiv","value":"$622m"},{"label":"UK cars built in Oct","value":"64,141"},{"label":"NZ special votes to count","value":"400,000"}],"strapline":"Tokyo inflation hardens the December hike case, Formula 1 opens in Qatar, and Black Friday begins under tariffs.","timeline":[{"text":"Nikkei opens +0.3% at 57,670","time":"00:00 UTC"},{"text":"Tokyo CPI 2.9% lands","time":"00:30 UTC"},{"text":"France GDP, CPI due","time":"06:45 UTC"},{"text":"Germany jobs data due","time":"07:00 UTC"},{"text":"F1 Practice 1, Lusail","time":"13:30 UTC"},{"text":"F1 Practice 2, Lusail","time":"17:00 UTC"},{"text":"US markets shut early","time":"18:00 UTC"},{"text":"Forest v Chelsea","time":"20:00 UTC"}]}
+{
+ "briefs": [
+  {
+   "badge": "REPORTED",
+   "deck": "Second warning this week; heed air alerts.",
+   "field": "CONFLICT",
+   "headline": "Zelenskiy: mass strike looms",
+   "id": 14,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Joint call for peace “as fast as possible”.",
+   "field": "POLITICS",
+   "headline": "Trump, Rutte warn Russia",
+   "id": 15,
+   "region": "N AMERICA"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "Paid for by European allies, Pentagon says.",
+   "field": "CONFLICT",
+   "headline": "US approves $621.9m F-16 aid",
+   "id": 16,
+   "region": "N AMERICA"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "First tranche of a €90bn two-year programme.",
+   "field": "ECONOMY",
+   "headline": "EU approves €45bn for Ukraine",
+   "id": 17,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "REPORTED",
+   "deck": "Abu Nada struck; US presses Netanyahu.",
+   "field": "CONFLICT",
+   "headline": "Israel kills senior Hamas official",
+   "id": 18,
+   "region": "MIDDLE EAST"
+  },
+  {
+   "badge": "CLAIM",
+   "deck": "Tehran offers inquiry; Fars blames Kyiv.",
+   "field": "POLITICS",
+   "headline": "Iran denies Kuwait drone role",
+   "id": 19,
+   "region": "MIDDLE EAST"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Oil up as Gulf attacks rattle supply fears.",
+   "field": "MARKETS",
+   "headline": "Brent at $90.79 on Gulf fears",
+   "id": 20,
+   "region": "MIDDLE EAST"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Index closes at 57,499 as AI shares rebound.",
+   "field": "MARKETS",
+   "headline": "SoftBank, Kioxia lift Nikkei +0.9%",
+   "id": 21,
+   "region": "ASIA-PACIFIC"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "+0.3% to 4,711; Taiwan's Taiex jumps 2.5%.",
+   "field": "MARKETS",
+   "headline": "Kospi steadies after 6.2% plunge",
+   "id": 22,
+   "region": "ASIA-PACIFIC"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "+0.7% after Wall St clawed back a 3.2% slide.",
+   "field": "MARKETS",
+   "headline": "S&P futures point to Friday gains",
+   "id": 23,
+   "region": "N AMERICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Yen soft after Tokyo CPI lands below forecast.",
+   "field": "MARKETS",
+   "headline": "Dollar at ¥159.30; euro $1.0968",
+   "id": 24,
+   "region": "GLOBAL"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "11,000 jobs at risk; no buyer found.",
+   "field": "ECONOMY",
+   "headline": "Poundland in administration",
+   "id": 25,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "Typical bill £1,723→£2,166; gas surge blamed.",
+   "field": "ECONOMY",
+   "headline": "UK energy bills up 26% in Jan",
+   "id": 26,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Record UK contract for the submarine fleet.",
+   "field": "POLITICS",
+   "headline": "Babcock signs $11.4bn sub deal",
+   "id": 27,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "REPORTED",
+   "deck": "Plan frees capital for lending, dividends.",
+   "field": "ECONOMY",
+   "headline": "BoE mulls lower capital rules",
+   "id": 28,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Milei shut out of Lula's Jan 5 inauguration.",
+   "field": "POLITICS",
+   "headline": "Brazil recalls Argentina envoy",
+   "id": 29,
+   "region": "LATIN AMERICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "A one-year-old among the dead in the south.",
+   "field": "SOCIETY",
+   "headline": "Brazil storms kill at least eight",
+   "id": 30,
+   "region": "LATIN AMERICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Municipal, provincial races; Nov 29.",
+   "field": "POLITICS",
+   "headline": "Ecuador votes in local polls",
+   "id": 31,
+   "region": "LATIN AMERICA"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "5,904 dead; fighting drives responders out.",
+   "field": "SOCIETY",
+   "headline": "DRC Ebola cases pass 12,000",
+   "id": 32,
+   "region": "AFRICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "AU backs plan; Khartoum says no.",
+   "field": "POLITICS",
+   "headline": "Sudan rejects Ethiopia plan",
+   "id": 33,
+   "region": "AFRICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Fuel truck overturns, burns on the Ring Road.",
+   "field": "SOCIETY",
+   "headline": "Cairo tanker fire kills at least 31",
+   "id": 34,
+   "region": "AFRICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "High Court voids Phala Phala report in full.",
+   "field": "POLITICS",
+   "headline": "Ramaphosa case thrown out",
+   "id": 35,
+   "region": "AFRICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Tinubu pledges action after Borno kidnapping.",
+   "field": "POLITICS",
+   "headline": "Nigeria vows to free 78 pupils",
+   "id": 36,
+   "region": "AFRICA"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "Visas resume; Africa CDC urges others on.",
+   "field": "SOCIETY",
+   "headline": "Qatar lifts Ebola curbs on Uganda",
+   "id": 37,
+   "region": "MIDDLE EAST"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Fines up to 5% of global revenue.",
+   "field": "TECH",
+   "headline": "Australia's duty-of-care law",
+   "id": 38,
+   "region": "OCEANIA"
+  },
+  {
+   "badge": "ONGOING",
+   "deck": "Final count today decides the government.",
+   "field": "POLITICS",
+   "headline": "NZ result hangs on late votes",
+   "id": 39,
+   "region": "OCEANIA"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "QF426 went around as Air NZ jet crossed 16R.",
+   "field": "SOCIETY",
+   "headline": "Qantas jet aborts Sydney landing",
+   "id": 40,
+   "region": "OCEANIA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Second Test starts today in Christchurch.",
+   "field": "SPORT",
+   "headline": "India chase first series win in NZ",
+   "id": 41,
+   "region": "ASIA-PACIFIC"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Full-back switch for Saturday's NZ clash.",
+   "field": "SPORT",
+   "headline": "England pick Steward for NZ tie",
+   "id": 42,
+   "region": "EUROPE"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Dec 3 flyby tests nine instruments for Jupiter.",
+   "field": "SCIENCE",
+   "headline": "Europa Clipper's Earth slingshot",
+   "id": 43,
+   "region": "GLOBAL"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Storm forces postponement; bands scramble.",
+   "field": "CULTURE",
+   "headline": "Macy's parade moves to Saturday",
+   "id": 44,
+   "region": "N AMERICA"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "MD-11 incident triggers FAA ground stop.",
+   "field": "SOCIETY",
+   "headline": "FedEx jet overshoots runway",
+   "id": 45,
+   "region": "N AMERICA"
+  }
+ ],
+ "cards": [
+  {
+   "art": "nvidia",
+   "badge": "REPORTED",
+   "deck": "Dell, Supermicro told to stop shipments.",
+   "field": "TECH",
+   "headline": "Nvidia halts AI server shipments to SE Asia",
+   "id": 4,
+   "lat": 1.35,
+   "lon": 103.82,
+   "place": "Singapore",
+   "region": "ASIA-PACIFIC"
+  },
+  {
+   "art": "kyiv",
+   "badge": "CONFIRMED",
+   "deck": "7 hurt as a mall is struck; laser first.",
+   "field": "CONFLICT",
+   "headline": "Kyiv hit by ballistic missiles; laser downs drone",
+   "id": 5,
+   "lat": 50.45,
+   "lon": 30.52,
+   "place": "Kyiv",
+   "region": "EUROPE"
+  },
+  {
+   "art": "kuwait",
+   "badge": "CONFIRMED",
+   "deck": "Iran denies blame; one killed at Jazan.",
+   "field": "CONFLICT",
+   "headline": "Kuwait drone attack kills two Italians",
+   "id": 6,
+   "lat": 29.37,
+   "lon": 47.98,
+   "place": "Kuwait City",
+   "region": "MIDDLE EAST"
+  },
+  {
+   "art": "markets",
+   "badge": "CONFIRMED",
+   "deck": "DAX +1.9%, FTSE +1.5%, Nikkei +0.9%.",
+   "field": "MARKETS",
+   "headline": "Stocks rebound worldwide after Wall St scare",
+   "id": 7,
+   "lat": 50.11,
+   "lon": 8.68,
+   "place": "Frankfurt",
+   "region": "EUROPE"
+  },
+  {
+   "art": "hera",
+   "badge": "CONFIRMED",
+   "deck": "Hera images show DART scar, boulders.",
+   "field": "SCIENCE",
+   "headline": "Hera finds stadium-sized crater on Dimorphos",
+   "id": 8,
+   "lat": 52.52,
+   "lon": 13.41,
+   "place": "Berlin",
+   "region": "EUROPE"
+  },
+  {
+   "art": "migration",
+   "badge": "OFFICIAL",
+   "deck": "Lowest since 1997 outside Covid years.",
+   "field": "POLITICS",
+   "headline": "UK net migration falls to 77,000",
+   "id": 9,
+   "lat": 51.51,
+   "lon": -0.13,
+   "place": "London",
+   "region": "EUROPE"
+  },
+  {
+   "art": "storm",
+   "badge": "CONFIRMED",
+   "deck": "Flights delayed; parade moved to Sat.",
+   "field": "SOCIETY",
+   "headline": "Thanksgiving storm cuts power to 1m+ homes",
+   "id": 10,
+   "lat": 38.63,
+   "lon": -90.2,
+   "place": "St. Louis",
+   "region": "N AMERICA"
+  },
+  {
+   "art": "nfl",
+   "badge": "ONGOING",
+   "deck": "9–1 Bills host 8–2 Chiefs; gusts 40mph.",
+   "field": "SPORT",
+   "headline": "Bills–Chiefs play through sleet in Buffalo",
+   "id": 11,
+   "lat": 42.89,
+   "lon": -78.88,
+   "place": "Buffalo",
+   "region": "N AMERICA"
+  },
+  {
+   "art": "iss",
+   "badge": "CONFIRMED",
+   "deck": "3 tons of supplies reach Expedition 75.",
+   "field": "SCIENCE",
+   "headline": "Progress 97 docks with space station",
+   "id": 12,
+   "lat": 45.96,
+   "lon": 63.31,
+   "place": "Baikonur",
+   "region": "GLOBAL"
+  },
+  {
+   "art": "bok",
+   "badge": "OFFICIAL",
+   "deck": "Third hike this year; more signalled.",
+   "field": "ECONOMY",
+   "headline": "Bank of Korea lifts rate to 3.25%",
+   "id": 13,
+   "lat": 37.57,
+   "lon": 126.98,
+   "place": "Seoul",
+   "region": "ASIA-PACIFIC"
+  }
+ ],
+ "date": "FRIDAY 27 NOVEMBER 2026",
+ "datecheck": "DATE CHECK — All items dated 27 Nov 2026 or the overnight 26→27 Nov window. EXCLUDED AS STALE: Bank of England rate rise (5 Nov) · UK Budget (28 Oct) · Nvidia chief's resignation (12 Nov) · Las Vegas GP (22 Nov) · Macy's parade route.",
+ "edition": "The World in One Day",
+ "field_counts": [
+  [
+   "POLITICS",
+   9
+  ],
+  [
+   "ECONOMY",
+   7
+  ],
+  [
+   "MARKETS",
+   6
+  ],
+  [
+   "CONFLICT",
+   6
+  ],
+  [
+   "SOCIETY",
+   7
+  ],
+  [
+   "SPORT",
+   4
+  ],
+  [
+   "SCIENCE",
+   3
+  ],
+  [
+   "TECH",
+   2
+  ],
+  [
+   "CULTURE",
+   1
+  ]
+ ],
+ "leads": [
+  {
+   "badge": "CONFIRMED",
+   "deck": "Core CPI tops the BOJ's 2% target for a third month; a December hike to 1.5% is the base case.",
+   "field": "ECONOMY",
+   "headline": "Tokyo prices jump 2.9%, fastest in 16 months",
+   "id": 1,
+   "img": "assets/chatgpt-lead-tokyo.png",
+   "lat": 35.68,
+   "lon": 139.69,
+   "place": "Tokyo",
+   "region": "ASIA-PACIFIC"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Practice opens at floodlit Lusail today; the race is Sunday. Antonelli is already champion — second place is the fight.",
+   "field": "SPORT",
+   "headline": "Verstappen chases a fourth straight Qatar win",
+   "id": 2,
+   "img": "assets/chatgpt-lead-f1.png",
+   "lat": 25.49,
+   "lon": 51.45,
+   "place": "Lusail",
+   "region": "MIDDLE EAST"
+  },
+  {
+   "badge": "CONFIRMED",
+   "deck": "Amazon's sale runs to Nov 30; Best Buy and Target lead the doorbusters as stores open early after Thanksgiving.",
+   "field": "ECONOMY",
+   "headline": "Black Friday opens with millions of deals live",
+   "id": 3,
+   "img": "assets/chatgpt-lead-blackfriday.png",
+   "lat": 40.71,
+   "lon": -74.01,
+   "place": "New York",
+   "region": "N AMERICA"
+  }
+ ],
+ "legend": "OFFICIAL — government or official data · REPORTED — press report, not yet officially confirmed · CONFIRMED — cross-checked · CLAIM — single-party claim · ONGOING — developing",
+ "meta": "45 STORIES · 8 REGIONS · 9 FIELDS",
+ "region_counts": [
+  [
+   "N AMERICA",
+   8
+  ],
+  [
+   "EUROPE",
+   11
+  ],
+  [
+   "ASIA-PACIFIC",
+   7
+  ],
+  [
+   "MIDDLE EAST",
+   6
+  ],
+  [
+   "AFRICA",
+   5
+  ],
+  [
+   "LATIN AMERICA",
+   3
+  ],
+  [
+   "OCEANIA",
+   3
+  ],
+  [
+   "GLOBAL",
+   2
+  ]
+ ],
+ "sources": "SOURCES: Reuters · AP · FT · WSJ · CNN · NASA · ESA · ONS · ATSB · FlightAware. Lead images are photorealistic; cards are illustrated. No text is embedded in any illustration.",
+ "stats": [
+  {
+   "big": "2.9%",
+   "label": "Tokyo core CPI, Nov — 16-month high"
+  },
+  {
+   "big": "57,499",
+   "label": "Nikkei close, +0.9% on the day"
+  },
+  {
+   "big": "1m+",
+   "label": "US homes lose power in storm"
+  },
+  {
+   "big": "12,021",
+   "label": "DRC Ebola cases, 5,904 dead"
+  },
+  {
+   "big": "77,000",
+   "label": "UK net migration — 29-year low"
+  },
+  {
+   "big": "1,708",
+   "label": "US flights delayed on Thursday"
+  }
+ ],
+ "timeline": [
+  {
+   "day": "26 NOV",
+   "label": "Tokyo CPI core 2.9%",
+   "min": 0,
+   "t": "23:30"
+  },
+  {
+   "day": "27 NOV",
+   "label": "US storm outages pass 1m",
+   "min": 60,
+   "t": "00:30"
+  },
+  {
+   "day": "27 NOV",
+   "label": "Bills–Chiefs kick off in sleet",
+   "min": 110,
+   "t": "01:20"
+  },
+  {
+   "day": "27 NOV",
+   "label": "Progress 97 docks",
+   "min": 758,
+   "t": "12:08"
+  },
+  {
+   "day": "27 NOV",
+   "label": "F1 practice 1, Lusail",
+   "min": 840,
+   "t": "13:30"
+  },
+  {
+   "day": "27 NOV",
+   "label": "NYSE opens, short session",
+   "min": 900,
+   "t": "14:30"
+  },
+  {
+   "day": "27 NOV",
+   "label": "F1 practice 2, Lusail",
+   "min": 1050,
+   "t": "17:00"
+  },
+  {
+   "day": "27 NOV",
+   "label": "NYSE early close",
+   "min": 1110,
+   "t": "18:00"
+  }
+ ]
+}
